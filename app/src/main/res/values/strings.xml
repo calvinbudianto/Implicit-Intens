@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit Intens</string>
+
+    <string name="edittext_uri">http://google.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Golden gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\'Twas brilig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+</resources>
